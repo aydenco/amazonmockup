@@ -1,0 +1,19 @@
+.fullbody{
+    display: grid;
+    justify-content: center;
+    padding-top: 100px;
+}
+
+.logo{
+    width: 5rem;
+}
+
+.logobox{
+    display: grid;
+    justify-content: center;
+}
+
+.new{
+    display: grid;
+    justify-content: center;
+}
